@@ -1,0 +1,28 @@
+li {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-left: -24px;
+    background-color: white;
+    border-radius: 10px;
+    height: 50px;
+    width: 300px;
+    padding-bottom: 10px;
+}
+
+span {
+    margin-top: 15px;
+}
+
+.task-list {
+    margin-top: 157px;
+}
+
+.container-li {
+    margin-top: 60px;
+}
+
+.task-item.done p {
+    text-decoration: line-through;
+
+}
