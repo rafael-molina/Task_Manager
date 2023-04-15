@@ -13,14 +13,19 @@ body {
 
 h1 {
     color: white;
+    margin-left: -36px;
+    height: 60px;
+    margin-top: -50px;
+    margin-right: -228px;
 }
 
 
 button {
-    margin-top: 100px;
-    margin-left: -52px;
+    margin-top: 9px;
+    margin-left: 7px;
     width: 50px;
     border-radius: 10px;
+    margin-right: -31px;
 }
 
 ul {
@@ -32,5 +37,17 @@ ul {
     border-radius: 10px;
     padding-left: 25px;
     background-color: white !important;
+}
+
+#new-task {
+    height: 60px;
+    
+    
+}
+
+input {
+    margin-top: 50px;
+    margin-right: -8px;
+    margin-left: 14px;
 }
 
